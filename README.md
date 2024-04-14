@@ -15,6 +15,6 @@
 <p align="left">
  <h3 align="left">Tech stack:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,spring boot,hibernate,python,mssql,mysql,tailwindcss,php,vue js" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,spring,hibernate,python,mysql,tailwindcss,vue,docker" />
   </a>
 </p>
