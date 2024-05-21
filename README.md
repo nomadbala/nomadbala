@@ -11,6 +11,6 @@
 <p align="left">
  <h3 align="left">Tech stack:</h3>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,mysql,postgres,docker,vue,tailwind,js,ts,git,npm,gradle,maven,refis,kafka" />
+   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,mysql,postgres,docker,vue,tailwind,js,ts,git,npm,gradle,maven,redis,kafka" />
   </a>
 </p>
