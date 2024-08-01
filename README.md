@@ -1,6 +1,6 @@
 ### Hello there 👋
 
- > I'm Sapar Sayat, Software Development Student.
+ > I'm Sapar Sayat, Software Developer.
 
 📫 Reach me via Email  - devsayat01@gmail.com
 
