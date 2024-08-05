@@ -3,6 +3,7 @@
  > I'm Sapar Sayat, Software Developer.
 
 📫 Reach me via Email  - devsayat01@gmail.com
+✌️ My resume - <a href="resume.pdf"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
