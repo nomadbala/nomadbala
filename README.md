@@ -2,7 +2,7 @@
 
  > I'm Sapar Sayat, Software Developer.
 
-📫 Reach me via Email  - devsayat01@gmail.com <br>
+📫 Reach me via Email  - mounjoyer@gmail.com <br>
 ⛩️ Telegram - <a href="https://t.me/saparsayat">Click me</a>
 
 <h3 align="left">Connect with me:</h3>
